@@ -1,0 +1,14 @@
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\bin\Debug\netcoreapp2.1\BootCamp.deps.json
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\bin\Debug\netcoreapp2.1\BootCamp.runtimeconfig.json
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\bin\Debug\netcoreapp2.1\BootCamp.runtimeconfig.dev.json
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\bin\Debug\netcoreapp2.1\BootCamp.dll
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\bin\Debug\netcoreapp2.1\BootCamp.pdb
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\obj\Debug\netcoreapp2.1\BootCamp.csprojAssemblyReference.cache
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\obj\Debug\netcoreapp2.1\BootCamp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\obj\Debug\netcoreapp2.1\BootCamp.AssemblyInfoInputs.cache
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\obj\Debug\netcoreapp2.1\BootCamp.AssemblyInfo.cs
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\obj\Debug\netcoreapp2.1\BootCamp.dll
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\obj\Debug\netcoreapp2.1\BootCamp.pdb
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\bin\Debug\netcoreapp2.1\Order.csv
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\bin\Debug\netcoreapp2.1\Order.json
+D:\Visual Studio\w3resorce\BootCamp\BootCamp\bin\Debug\netcoreapp2.1\Order.xml
